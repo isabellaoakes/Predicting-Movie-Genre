@@ -24,6 +24,7 @@ Using IMDb data, overviews will be pulled, cleaned, and tokenized so that they c
 ## Presentations and projects
 * [Data Ingestion and Cleaning](https://github.com/isabellaoakes/Predicting-Movie-Rating/blob/main/Data%20Cleaning%20Movie%20Data.ipynb)
 * [Descriptive Statistics](https://github.com/isabellaoakes/Predicting-Movie-Rating/blob/main/Descriptive%20Statistics.ipynb)
+* [Final Code](https://github.com/isabellaoakes/Predicting-Movie-Genre/blob/main/Data%20Modeling%20Movie%20Genre.ipynb)
 
 ## Dataset 
 [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
